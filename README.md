@@ -57,3 +57,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimHyunjo)](https://github.com/limhyunjo/github-readme-stats)
   
 </div>
+
+<!-- FOOTER -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:E1F5FE,100:82B1FF&height=150&section=footer)
